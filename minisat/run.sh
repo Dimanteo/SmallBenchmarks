@@ -1,0 +1,1 @@
+./minisat -verbosity=0 long.cnf

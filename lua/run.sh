@@ -1,0 +1,1 @@
+./lua alltests.lua < /dev/null
